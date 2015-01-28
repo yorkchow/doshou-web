@@ -1,0 +1,14 @@
+<script src="${ctx}/static/admin/comp/jquery-ui-bootstrap/js/bootstrap.min.js?3"></script>
+<script src="${ctx}/static/admin/comp/metis-menu/js/metisMenu.min.js?1"></script>
+<script src="${ctx}/static/admin/comp/jquery-ui-bootstrap/js/jquery-ui-1.10.3.custom.min.js?1"></script>
+<script src="${ctx}/static/admin/comp/jquery-ui-bootstrap/js/jquery.blockUI.js?1"></script>
+<script src="${ctx}/static/admin/comp/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js?1"></script>
+<script src="${ctx}/static/admin/comp/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js?1"></script>
+<script src="${ctx}/static/admin/comp/jQuery-Validation-Engine/js/jquery.validationEngine.js?1" charset="utf-8"></script>
+<script src="${ctx}/static/admin/comp/jQuery-Validation-Engine/js/languages/jquery.validationEngine-zh_CN.js?1" charset="utf-8"></script>
+<script src="${ctx}/static/admin/comp/jquery-ui-bootstrap/js/prettify.js?2"></script>
+<script src="${ctx}/static/admin/comp/jquery-ui-bootstrap/js/jquery.bootstrap.min.js?1"></script>
+<script src="${ctx}/static/admin/comp/nicescroll/jquery.nicescroll.min.js?3"></script>
+<script src="${ctx}/static/admin/comp/nicescroll/jquery.nicescroll.plus.js?3"></script>
+<script src="${ctx}/static/admin/js/application.js?11"></script>
+<script src="${ctx}/static/admin/js/iframe.js?1"></script>

@@ -1,0 +1,19 @@
+<!--最终合并为1个css 和 1个js-->
+<!-- Le styles -->
+<link href="${ctx}/static/admin/comp/jquery-ui-bootstrap/css/bootstrap.css?3" rel="stylesheet"/>
+<link href="${ctx}/static/admin/comp/jquery-ui-bootstrap/css/prettify.css?2" rel="stylesheet"/>
+<link href="${ctx}/static/admin/comp/jquery-ui-bootstrap/css/custom-theme/jquery-ui-1.10.3.custom.css?3" rel="stylesheet"/>
+<link href="${ctx}/static/admin/comp/jquery-ui-bootstrap/css/fonts/redux-google-fonts.css?1" rel="stylesheet"/>
+<link href="${ctx}/static/admin/comp/jquery-ui-bootstrap/css/font-awesome/font-awesome.min.css?4" rel="stylesheet"/>
+<link href="${ctx}/static/admin/comp/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css?1" rel="stylesheet">
+<link href="${ctx}/static/admin/comp/jQuery-Validation-Engine/css/validationEngine.jquery.css?1" rel="stylesheet">
+<link href="${ctx}/static/admin/comp/jQuery-Validation-Engine/css/template.css?1" rel="stylesheet">
+<link href="${ctx}/static/admin/comp/metis-menu/css/metis-menu.min.css?1" rel="stylesheet"/>
+<link href="${ctx}/static/admin/css/application.css?1" rel="stylesheet"/>
+<link href="${ctx}/static/admin/css/icon.css?1" rel="stylesheet">
+
+<script>
+    var ctx = '${ctx}';
+</script>
+
+<script src="${ctx}/static/admin/comp/jquery-ui-bootstrap/js/jquery.min.js?11"></script>
